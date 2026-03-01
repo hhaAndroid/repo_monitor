@@ -16,6 +16,8 @@
 |------|------|------|------|
 | verl | https://github.com/verl-project/verl | 监控中 | [docs/verl.md](docs/verl.md) |
 | slime | https://github.com/THUDM/slime | 监控中 | [docs/slime.md](docs/slime.md) |
+| ROLL | https://github.com/alibaba/ROLL | 监控中 | [docs/roll.md](docs/roll.md) |
+| AReaL | https://github.com/inclusionAI/AReaL | 监控中 | [docs/areal.md](docs/areal.md) |
 
 ## 📖 文档
 
