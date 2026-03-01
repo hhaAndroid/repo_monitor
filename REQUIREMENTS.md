@@ -103,6 +103,26 @@
 - 杂项 (chore:, ci:)
 - 测试 (test:)
 
+### 3.5 Transformers
+
+#### 3.5.1 地址
+
+- **GitHub 地址**: https://github.com/huggingface/transformers
+- **项目描述**: Hugging Face Transformers - State-of-the-art Machine Learning for PyTorch, TensorFlow, and JAX
+
+#### 3.5.2 监控需求
+
+**✅ 必须关注：**
+- 重点关注新模型支持 (New model/add/model)
+- 重点关注新功能 (feat:)
+- 重点关注大重构 (refactor:)
+
+**❌ 排除（不记录）:**
+- Bug 修复 (fix:)
+- 文档 (doc:)
+- 杂项 (chore:, ci:)
+- 测试 (test:)
+
 ---
 
 ## 4. PR 筛选规则

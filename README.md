@@ -18,6 +18,7 @@
 | slime | https://github.com/THUDM/slime | 监控中 | [docs/slime.md](docs/slime.md) |
 | ROLL | https://github.com/alibaba/ROLL | 监控中 | [docs/roll.md](docs/roll.md) |
 | AReaL | https://github.com/inclusionAI/AReaL | 监控中 | [docs/areal.md](docs/areal.md) |
+| transformers | https://github.com/huggingface/transformers | 监控中 | [docs/transformers.md](docs/transformers.md) |
 
 ## 📖 文档
 
