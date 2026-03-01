@@ -15,6 +15,7 @@
 | 仓库 | 地址 | 状态 | 文档 |
 |------|------|------|------|
 | verl | https://github.com/verl-project/verl | 监控中 | [docs/verl.md](docs/verl.md) |
+| slime | https://github.com/THUDM/slime | 监控中 | [docs/slime.md](docs/slime.md) |
 
 ## 📖 文档
 
