@@ -1,12 +1,12 @@
 # 📊 Transformers PR 追踪
 
 > 自动追踪 Hugging Face Transformers 项目重要 PR 更新  
-> 最后更新: 2026-03-02  
+> 最后更新: 2026-03-03  
 > 最新 PR: [#44337](https://github.com/huggingface/transformers/pull/44337)
 
 ---
 
-## 📋 2026-03-02 监控结果
+## 📋 2026-03-03 监控结果
 
 今天 **transformers** 库没有新的重要 PR 更新。
 
